@@ -37,8 +37,6 @@ public class Main {
        
        int[] arr = freearray(array);
        int m =0;
-       
-       
        System.out.println("give me quaries : ");
        for(int i=1;i<=n;i++){
            int q=sc.nextInt();

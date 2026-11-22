@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Quaries {
 	static void printarr(int[] arr){
 	    System.out.print("[ ");
 	    
